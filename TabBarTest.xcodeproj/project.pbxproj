@@ -13,6 +13,7 @@
 		415D3A5E1C1F6AB7006D6A26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 415D3A5C1C1F6AB7006D6A26 /* Main.storyboard */; };
 		415D3A601C1F6AB7006D6A26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 415D3A5F1C1F6AB7006D6A26 /* Assets.xcassets */; };
 		415D3A631C1F6AB7006D6A26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 415D3A611C1F6AB7006D6A26 /* LaunchScreen.storyboard */; };
+		415D3A6B1C1F6ACE006D6A26 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415D3A6A1C1F6ACE006D6A26 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		415D3A5F1C1F6AB7006D6A26 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		415D3A621C1F6AB7006D6A26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		415D3A641C1F6AB7006D6A26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		415D3A6A1C1F6ACE006D6A26 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				415D3A561C1F6AB7006D6A26 /* AppDelegate.swift */,
 				415D3A581C1F6AB7006D6A26 /* FirstViewController.swift */,
 				415D3A5A1C1F6AB7006D6A26 /* SecondViewController.swift */,
+				415D3A6A1C1F6ACE006D6A26 /* DetailViewController.swift */,
 				415D3A5C1C1F6AB7006D6A26 /* Main.storyboard */,
 				415D3A5F1C1F6AB7006D6A26 /* Assets.xcassets */,
 				415D3A611C1F6AB7006D6A26 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				415D3A5B1C1F6AB7006D6A26 /* SecondViewController.swift in Sources */,
 				415D3A571C1F6AB7006D6A26 /* AppDelegate.swift in Sources */,
 				415D3A591C1F6AB7006D6A26 /* FirstViewController.swift in Sources */,
+				415D3A6B1C1F6ACE006D6A26 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
